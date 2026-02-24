@@ -1,46 +1,22 @@
 <div align="center">
 
-  <img src="arknights-w.gif" width="100%" style="border-radius: 10px;" alt="Ảnh bìa anime động">
+<img src="arknights-w.gif" width="100%" style="border-radius:20px;" />
 
-  <h1 align="center">Chào mừng đến với không gian của KevinShetsu123! 👋</h1>
+# 💖 KevinShetsu123 💖
 
-  <p align="center">
-    <i>"Code là đam mê, Anime là chân ái."</i>
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=26&duration=3500&color=FF69B4&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%92%BB;Cybersecurity+Dreamer+%F0%9F%9B%A1;Anime+is+Life+%F0%9F%8C%B8;Building+Cool+Things+Everyday+%E2%9C%A8" />
 
-<br/>
-
-### 📫 Kết nối với tôi
-
-<a href="mailto:khoa51396@gmail.com">
-  <img src="https://img.shields.io/badge/Email-khoa51396%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<a href="DÁN_LINK_FACEBOOK_CỦA_BẠN_VÀO_ĐÂY" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Kết%20bạn%20nhé-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
+### 🌸 「 Code with passion. Build with love. 」 🌸
 
 </div>
 
 ---
 
-### 🛠️ Vũ khí công nghệ
+## 💕 About Me
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <br/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</div>
-
----
-
-### 📊 Chỉ số hoạt động
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinShetsu123&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinShetsu123&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</div>
+```yaml
+name: Kevin
+class: Backend Mage
+affinity: Python & FastAPI
+dream: Cybersecurity Specialist
+power_level: Increasing daily ✨
