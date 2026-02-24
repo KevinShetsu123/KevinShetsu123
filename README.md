@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="anh-dong-anime11-1.gif" />
+<img src="wallpaper.gif" />
 
 </div>
 
