@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="![arknights-w](https://github.com/user-attachments/assets/e7a1b40e-776d-4ba4-a2b9-2ac2b9b9e348)
+  <img src="arknights-w.gif
 " width="100%" style="border-radius: 10px;" alt="Ảnh bìa anime động">
 
   <h1 align="center">Chào mừng đến với không gian của KevinShetsu123! 👋</h1>
