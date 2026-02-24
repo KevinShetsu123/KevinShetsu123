@@ -20,6 +20,10 @@
 > In a quiet room lit only by the glow of a monitor…  
 > A developer begins another late-night commit.
 
+<table>
+  <tr>
+    <td width="65%">
+
 Hi, mình là **Kevin** — một backend developer đang trong hành trình tiến hóa thành phiên bản mạnh nhất của chính mình.
 
 Mình không đơn thuần chỉ viết code.  
@@ -37,13 +41,12 @@ Trong thế giới của API và database:
 
 🛡 **Final Goal:** Trở thành Cybersecurity Specialist thực thụ.
 
----
-
-<div align="center">
-
-<img src="waifu.png" width="260" />
-
-</div>
+    </td>
+    <td width="35%" align="center">
+      <img src="waifu.png" width="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -55,7 +58,7 @@ Trong thế giới của API và database:
 - 🚀 Building scalable systems  
 - ⚡ Clean Code & Performance Focus  
 
-> 🌸 “Power comes from consistency.”
+> 🌸 "Power comes from consistency."
 
 ---
 
@@ -101,6 +104,6 @@ Trong thế giới của API và database:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=1000&color=C71585&center=true&vCenter=true&width=700&lines=%E2%99%AB+Ending+Theme...;%E2%9C%A8+To+be+continued+in+Season+2...;%F0%9F%8C%B8+Stay+tuned..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=1000&color=C71585&center=true&vCenter=true&width=700&lines=%E2%99%AB+Ending+Theme...;%E2%9C%A8+To+be+continued+in+Season+2...;%F0%9F%8C%B8+Stay+tuned..."/>
 
 </div>
