@@ -12,7 +12,7 @@
 
 # 💖 KevinShetsu123 💖
 
-## 🌙 About Me — Main Character Arc
+## 🌙 About Me 
 
 > In a quiet room lit only by the glow of a monitor…  
 > A developer begins another late-night commit.
