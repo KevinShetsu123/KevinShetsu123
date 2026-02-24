@@ -1,46 +1,49 @@
 <div align="center">
 
-<img src="wallpaper.gif" />
+<img src="wallpaper.gif" width="100%" />
 
 </div>
 
-<br>
+---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 # 💖 KevinShetsu123 💖
+### 🌙 Main Character Developer Arc
 
-## 🌙 About Me 
+</div>
+
+---
+
+## 🌸 About Me
 
 > In a quiet room lit only by the glow of a monitor…  
 > A developer begins another late-night commit.
 
-Hi, mình là **Kevin** — một backend developer trên hành trình tiến hóa thành phiên bản mạnh nhất của chính mình.
+Hi, mình là **Kevin** — một backend developer đang trong hành trình tiến hóa thành phiên bản mạnh nhất của chính mình.
 
-Mình không chỉ viết code.  
+Mình không đơn thuần chỉ viết code.  
 Mình xây dựng hệ thống.  
 Mình thiết kế kiến trúc.  
-Mình tối ưu để đạt hiệu suất tối đa.
+Mình tối ưu hiệu suất.  
+Mình suy nghĩ như một security engineer.
 
 Trong thế giới của API và database:
 
 - 🐛 Mỗi bug là một boss fight  
 - 🚀 Mỗi deploy là một level up  
-- ✨ Mỗi commit là một bước tiến hóa  
+- ⚡ Mỗi commit là một bước tiến hóa  
+- 🔐 Mỗi hệ thống là một pháo đài cần được bảo vệ  
 
-🛡 Mục tiêu: Trở thành Cybersecurity Specialist thực thụ.
+🛡 **Final Goal:** Trở thành Cybersecurity Specialist thực thụ.
 
-</td>
+---
 
-<td width="40%" align="center">
+<div align="center">
 
-<img src="waifu.png" width="260"/>
+<img src="waifu.png" width="260" />
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -50,6 +53,7 @@ Trong thế giới của API và database:
 - 🗄 Database Modeling & Optimization  
 - 🔐 Authentication & Security Mindset  
 - 🚀 Building scalable systems  
+- ⚡ Clean Code & Performance Focus  
 
 > 🌸 “Power comes from consistency.”
 
