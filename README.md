@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://tenor.com/vi/view/arknights-w-gif-1872437354384626643" width="100%" style="border-radius: 10px;" alt="Ảnh bìa anime động">
+  <img src="[https://tenor.com/vi/view/arknights-w-gif-1872437354384626643](https://media1.tenor.com/m/Gfw72mxEk9MAAAAC/arknights-w.gif)" width="100%" style="border-radius: 10px;" alt="Ảnh bìa anime động">
 
   <h1 align="center">Chào mừng đến với không gian của KevinShetsu123! 👋</h1>
 
