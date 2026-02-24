@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="arknights-w.gif" width="100%" style="border-radius:20px;" />
+<img src="https://images.alphacoders.com/132/1322308.jpeg" width="100%" style="border-radius:25px;" />
+
+</div>
 
 # 💖 KevinShetsu123 💖
 
