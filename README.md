@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=%E2%99%AA+Opening+Theme+Starts...;%F0%9F%8C%B8+Under+the+neon+sky%2C+he+writes+his+fate;%F0%9F%92%BB+Lines+of+code+become+his+power;%F0%9F%9B%A1+Security+is+his+destiny;%E2%9C%A8+Kevin's+Rise+Arc+%E2%9C%A8" />
+<img src="anh-dong-anime11-1.gif" />
 
 </div>
 
