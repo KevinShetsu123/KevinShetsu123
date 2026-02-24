@@ -2,13 +2,17 @@
 
 <img src="https://images.alphacoders.com/132/1322308.jpeg" width="100%" style="border-radius:25px;" />
 
-</div>
+<br><br>
 
 # 💖 KevinShetsu123 💖
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=%E2%99%AA+%E2%99%AB+%E2%99%AA+Opening+Theme+Starts...;%F0%9F%8C%B8+Under+the+neon+sky%2C+he+writes+his+fate;%F0%9F%92%BB+Lines+of+code+become+his+power;%F0%9F%9B%A1+Security+is+not+just+a+skill+%E2%80%94+it's+a+destiny;%E2%9C%A8+This+is+Kevin's+Rise+Arc+%E2%9C%A8" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=%E2%99%AA+Opening+Theme+Starts...;%F0%9F%8C%B8+Under+the+neon+sky%2C+he+writes+his+fate;%F0%9F%92%BB+Lines+of+code+become+his+power;%F0%9F%9B%A1+Security+is+his+destiny;%E2%9C%A8+Kevin's+Rise+Arc+%E2%9C%A8" />
 
-### 🌸 「 Code with passion. Build with love. 」 🌸
+<br>
+
+✨ 「 Code with passion. Build with love. 」 ✨
+
+</div>
 
 </div>
 
