@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="LINK_ANH_GIF_CUA_BAN_O_DAY" width="100%" style="border-radius: 10px;" alt="Ảnh bìa anime động">
+  <img src="https://www.reddit.com/r/arknights/comments/1ee8e18/pepe_dancing_various_loops/?tl=vi#lightbox" width="100%" style="border-radius: 10px;" alt="Ảnh bìa anime động">
 
   <h1 align="center">Chào mừng đến với không gian của KevinShetsu123! 👋</h1>
 
